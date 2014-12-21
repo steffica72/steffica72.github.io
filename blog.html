@@ -1,0 +1,14 @@
+---
+---
+
+<h1>This is my blog</h1>
+<dl>
+  {% for post in site.posts %}
+  <dt>
+    <a href='{{ post.url }}'>{{ post.title }}</a>
+  </dt>
+  <dd>
+    {{ post.excerpt | strip_html | truncate: 150, '...' }}
+  </dd>
+  {% endfor %}
+</dl>

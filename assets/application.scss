@@ -2,3 +2,47 @@
 ---
 
 @import 'bootstrap';
+
+/* Header styles
+-------------------------------------------------- */
+
+$header-height: 250px;
+
+.header {
+  top: 0;
+  width: 100%;
+
+  background: #abcdef;
+  height: $header-height;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+/* End header */
+
+/* Footer styles
+-------------------------------------------------- */
+
+$footer-height: 50px;
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: $footer-height;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  margin-top: $padding-large-vertical;
+  background: #fedcba;
+
+  height: $footer-height;
+}
