@@ -2,5 +2,5 @@
 layout: default
 ---
 
-#Steffica Elizabeth Lenny Kravitz Einstein Warwick the Third 
-yo my name is steff wasssuuupppp
+#Buffalo Soldier. Dreadlock Rasta.  
+Don't worry about a thing, because every little thing is gonna be ayereet.
