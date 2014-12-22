@@ -1,5 +1,9 @@
 - title: Blog
   path:  /blog/
 
+- title: Reggae Music
+  path: /reggae-music/
+
+
 - title: About
   path: /about/

@@ -1,17 +1,15 @@
 defaults:
-#  -
-#    scope:
-#      path: ''
-#
-#    values:
-#      layout: default
-#
-#  -
-#    scope:
-#      type: posts
-#      path: blog
-#
-#    values:
-#      layout: blog_post
-#
-#permalink: pretty
+  -
+    scope:
+      path: ''
+
+    values:
+      layout: default
+
+  -
+    scope:
+      type: posts
+      path: blog
+    values:
+      layout: blog_post
+permalink: pretty
