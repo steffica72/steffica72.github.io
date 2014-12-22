@@ -1,5 +1,6 @@
 ---
+layout: default
 ---
 
-#Hello from Jekyll
-yo my name is steff wasssuuupppp 
+#Steffica Elizabeth Lenny Kravitz Einstein Warwick the Third 
+yo my name is steff wasssuuupppp
